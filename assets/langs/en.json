@@ -1,0 +1,18 @@
+{
+    "Lang": "ar",
+    "welcome_back": "أهلا بك من جديد",
+    "Please_register_your_login_data": "من فضلك قم بتسجيل بياناتك لتسجيل الدخول",
+    "Mobile_number": "رقم الجوال",
+    "password": "كلمة المرور",
+    "Forgot_your_password": "نسيت كلمة المرور",
+    "not_have_an_account": "في حال كنت لا تملك حساب",
+    "Login": "تسجيل دخول",
+    "You_do_not_have_an_account": "ليس لديك حساب؟",
+    "Create_a_new_account": "إنشاء حساب جديد",
+    "welcome": "أهلا بك",
+    "or_sign": "أو سجل دخول عبر",
+    "join_us": "سعداء بإنضمامك الينا",
+    "sign_in_to_continue": "قم بالتسجيل الدخول للمتابعة",
+    "skip_login": "تخطي تسجيل الدخول"
+
+}
